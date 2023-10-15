@@ -2,6 +2,7 @@
 *.pyc
 *.egg-info
 *.swp
+.idea/*
 tags
 lingua_de/docs/current
 node_modules/
