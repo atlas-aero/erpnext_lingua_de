@@ -10,7 +10,7 @@ No external modules needed, as this module covers only core ERPNext and Frappe
 
 Install the modul as usual:
 ```bash
-bench get-app hr_time https://github.com/atlas-aero/erpnext_lingua_de
+bench get-app lingua_de https://github.com/atlas-aero/erpnext_lingua_de
 ```
 ```bash
 bench --site <site_name> install-app lingua_de
