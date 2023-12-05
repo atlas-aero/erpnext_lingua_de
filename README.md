@@ -1,8 +1,20 @@
 # Improved German translations for ERPNext
 Improved German translations and adaptions for [ERPNext](https://erpnext.com/), packed as own module.
 
-## Requirements
+## Setup
+
+### Requirements
 No external modules needed, as this module covers only core ERPNext and Frappe
+
+### Installation
+
+Install the modul as usual:
+```bash
+bench get-app hr_time https://github.com/atlas-aero/erpnext_hr_time
+```
+```bash
+bench --site <site_name> install-app hr_time
+```
 
 ## Development
 Any form of support is greatly appreciated. Feel free to create issues and PRs. See DEVELOPMENT for more details.
